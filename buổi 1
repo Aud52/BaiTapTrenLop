@@ -39,5 +39,4 @@ while (true)
 }
 
 var sum = a + b + c;
-
 Console.WriteLine($"{a} + {b} + {c} = {sum}");
